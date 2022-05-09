@@ -1,0 +1,10 @@
+1) Summary
+      2) Project
+      3) Version
+      4) Severity
+      5) Priority
+      6) Status
+      7) Author
+      8) Assigned_To
+      9) Description
+      10) Attachment[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[A[A[A[A[A[A[A   [C[C[C[      1) Summary[B[B[B[B[B[B[B[B[B[B[C[C[C[C
